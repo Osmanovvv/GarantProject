@@ -293,7 +293,7 @@ const Index = () => {
             <span className="hidden xs:inline">
               🎉 Скидка 20% для новых клиентов из интернета!
             </span>
-            <span className="xs:hidden">🎉 Скидка 20% онлайн!</span>
+            <span className="xs:hidden">🎉 Скидка 20% если с сайта!</span>
           </div>
         </div>
 
