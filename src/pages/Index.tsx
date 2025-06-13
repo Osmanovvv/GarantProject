@@ -786,7 +786,7 @@ const Index = () => {
 
           <div className="border-t border-garant-navy-light mt-8 sm:mt-12 pt-6 sm:pt-8 text-center">
             <p className="text-gray-300 text-sm sm:text-base">
-              © 2024 GARANT. Все права защищены.
+              © 2025 GARANT. Все права защищены.
             </p>
           </div>
         </div>
